@@ -2,5 +2,6 @@
   "user": "Admin",
   "user": "Luke",
   "user": "Mike",
-  "user": "Dave"
+  "user": "Dave",
+  "user": "Zuul"
 }
